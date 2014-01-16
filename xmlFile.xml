@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>CISC 230 Juke Box Project</comment>
+<entry key="ServerName">My Music</entry>
+<entry key="ServerPort">0</entry>
+<entry key="LogFileDirectoryPath">C:\Users\0527\Desktop\Music_Server\Log_Files</entry>
+<entry key="EchoLog">true</entry>
+<entry key="LogFlushInterval">5000</entry>
+<entry key="MulticastIP">227.226.225.224</entry>
+<entry key="MulticastPort">22322</entry>
+</properties>
