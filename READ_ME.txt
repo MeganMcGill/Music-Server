@@ -1,13 +1,15 @@
 TO RUN MUSIC SERVER:
 
-1)	Place music into the "Music" folder within the "Music_Server" directory. Music files must
-	be .WAV files.
+1)	Create and place music into a folder called "Music" within the directory containing java files. 
+	Music files must be .WAV files.
 
 2)	Modify your SONGLIST.TXT to match the songs you have provided in your "Music" folder. Input should
 	be provided in the following format:
 			Song Title <TAB> Artist Name <TAB> .WAV <TAB> File Path
 	I have included samples of how the text should be presented. Take care not to include extra characters
 	or spaces. 
+	
+3)	Create a folder called "Log_Files" within the directory containing all the java files.
 
 3)	Modify XMLFILE.XML
 		* Replace the path in "LogFileDirectoryPath" to the file path for the Log_Files folder.
